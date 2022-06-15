@@ -1,0 +1,13 @@
+name = "FourierOptics"
+uuid = "718cc127-6b2c-4206-813d-4843ed920eae"
+authors = ["Northwemko <yinyangxiangsheng@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
